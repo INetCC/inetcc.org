@@ -1,0 +1,9 @@
+body {
+	background-color: black;
+	color: lime;
+	font-family: monospace;
+	max-width: 42em;
+	padding: 1em;
+	margin: auto;
+}
+
